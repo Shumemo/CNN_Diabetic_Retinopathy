@@ -10,3 +10,5 @@ There will be clear markdown in the notebook as I continue to work on this to ma
 I chose to do this because I am a Type 1 Diabetic myself, and was interested in using Machine Learning and Deep Learning to navigate the ways in which it can improve the outcome of those with Diabetes. And of course, because Machine Learning is so interesting to read about!
 
 This is all about a slow, curiousity filled journey.
+
+Another curious update incoming!
